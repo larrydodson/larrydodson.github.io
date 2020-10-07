@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Larry Dodson web pages
 
 You can use the [editor on GitHub](https://github.com/larrydodson/larrydodson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
